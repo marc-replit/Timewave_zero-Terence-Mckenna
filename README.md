@@ -16,8 +16,8 @@ Features include:
 This is a faithful re-implementation of the original 1990s software by Peter Meyer and Terence McKenna, updated for 2026 with modern web tech.
 
 ## Demo
-If deployed to Streamlit Cloud: [Live App](https://your-app-name.streamlit.app)  
-(Replace with your URL after deployment—see below.)
+See Streamlit Cloud: https://timewavezero-terence-mckenna-2026.streamlit.app 
+
 
 ## Screenshots
 Add images here once uploaded to GitHub
